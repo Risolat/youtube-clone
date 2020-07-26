@@ -1,0 +1,21 @@
+.loading{
+  padding-left: 20px;
+}
+.videoDetail{
+  display: flex;
+  flex-direction: column;
+  height: 620px;
+  max-width: 820px;
+  padding-left: 20px;
+  background-color: #fff;
+  box-shadow:
+  0 63px 80px rgba(0, 0, 0, 0.1);
+}
+.iframe{
+  width: 810px;
+  height: 450px;
+  padding: 10px 5px 5px  0;
+}
+.text{
+  padding: 10px;
+}

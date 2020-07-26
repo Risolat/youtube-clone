@@ -1,0 +1,16 @@
+.paper{
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  cursor: pointer;
+  box-shadow:
+  0 4.2px 5.3px rgba(0, 0, 0, 0.04),
+  0 14.1px 17.9px rgba(0, 0, 0, 0.06),
+  0 63px 80px rgba(0, 0, 0, 0.1);
+}
+.image{
+  margin-right: 10px;
+}
+.subtitle2{
+  padding: 5px;
+}
